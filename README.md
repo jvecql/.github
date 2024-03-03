@@ -1,1 +1,6 @@
-# .github
+# Je vous écris ces quelques lignes...
+
+Je vous écris ces quelques lignes est une association rémoise
+dont l'objet est d'aider les personnes ayant des difficultés
+d'expression écrite à rédiger différents courriers :
+lettres à la famille, aux amis, aux administrations...
